@@ -1,4 +1,4 @@
-# open telemtry - spring boot app maven run
+open telemtry - spring boot app maven run
 mvn clean install
 mvn -pl spboot-tracing-ms1 -am spring-boot:run
 mvn -pl spboot-tracing-ms2 -am spring-boot:run
